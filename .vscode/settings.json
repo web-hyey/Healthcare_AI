@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": false,
+    "editor.tokenColorCustomizations": {
+        "comments":  "#b9ff80",
+}
+}
